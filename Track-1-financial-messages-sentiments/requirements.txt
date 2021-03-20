@@ -1,0 +1,5 @@
+algorithmia
+pandas
+sklearn
+matplotlib
+chardet
